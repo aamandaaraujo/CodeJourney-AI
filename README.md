@@ -223,7 +223,7 @@ const mentorIA = {
 
 ## 🚀 **PRONTO PARA DECOLAR?**
 
-[![Iniciar Jornada](https://img.shields.io/badge/INICIAR_JORNADA-00f3ff?style=for-the-badge&logo=rocket&logoColor=black)](https://github.com/seu-usuario/codejourney-ai)
+[![Iniciar Jornada](https://img.shields.io/badge/INICIAR_JORNADA-00f3ff?style=for-the-badge&logo=rocket&logoColor=black)](https://aamandaaraujo.github.io/CodeJourney-AI/)
 
 **⭐ Deixe uma estrela se esse projeto acelerou sua carreira!**
 
@@ -237,7 +237,7 @@ const mentorIA = {
 ### 📞 **CONEXÕES DA REDE:**
 - **GitHub**: [@aamandaaraujo](https://github.com/aamandaaraujo)
 - **LinkedIn**: [Amanda Araújo](https://linkedin.com/in/amandaaraujo--/)
-- **Projeto Live**: [🔗 Acessar CodeJourney AI](sua-url-deploy)
+- **Projeto Live**: [🔗 Acessar CodeJourney AI](https://aamandaaraujo.github.io/CodeJourney-AI/)
 
 ---
 
