@@ -1,0 +1,9 @@
+# Ignorar a pasta pesada de dependências
+node_modules/
+
+# Ignorar o arquivo com a chave secreta
+.env
+
+# Ignorar arquivos de log de erros 
+npm-debug.log
+*.log
